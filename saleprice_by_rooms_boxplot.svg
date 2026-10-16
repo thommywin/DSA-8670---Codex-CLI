@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="650" viewBox="0 0 1050 650">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#263238}.grid{stroke:#e2e8f0}.axis{stroke:#475569}.box{fill:#c7e9f1;stroke:#187a91;stroke-width:2}.med{stroke:#c2410c;stroke-width:3}.whisk{stroke:#187a91;stroke-width:2}</style>
+<text x="525" y="30" font-size="21" font-weight="bold" text-anchor="middle">Sale Price by Total Rooms Above Ground</text>
+<text x="525" y="52" font-size="12" text-anchor="middle">AmesHousing • box shows Q1–Q3; whiskers extend to 1.5×IQR; points are outliers</text>
+<line class="grid" x1="90" y1="545.0" x2="1020" y2="545.0"/>
+<text x="78" y="549.0" font-size="11" text-anchor="end">$0k</text>
+<line class="grid" x1="90" y1="485.0" x2="1020" y2="485.0"/>
+<text x="78" y="489.0" font-size="11" text-anchor="end">$100k</text>
+<line class="grid" x1="90" y1="425.0" x2="1020" y2="425.0"/>
+<text x="78" y="429.0" font-size="11" text-anchor="end">$200k</text>
+<line class="grid" x1="90" y1="365.0" x2="1020" y2="365.0"/>
+<text x="78" y="369.0" font-size="11" text-anchor="end">$300k</text>
+<line class="grid" x1="90" y1="305.0" x2="1020" y2="305.0"/>
+<text x="78" y="309.0" font-size="11" text-anchor="end">$400k</text>
+<line class="grid" x1="90" y1="245.0" x2="1020" y2="245.0"/>
+<text x="78" y="249.0" font-size="11" text-anchor="end">$500k</text>
+<line class="grid" x1="90" y1="185.0" x2="1020" y2="185.0"/>
+<text x="78" y="189.0" font-size="11" text-anchor="end">$600k</text>
+<line class="grid" x1="90" y1="125.0" x2="1020" y2="125.0"/>
+<text x="78" y="129.0" font-size="11" text-anchor="end">$700k</text>
+<line class="grid" x1="90" y1="65.0" x2="1020" y2="65.0"/>
+<text x="78" y="69.0" font-size="11" text-anchor="end">$800k</text>
+<line class="axis" x1="90" y1="65" x2="90" y2="545"/>
+<line class="axis" x1="90" y1="545" x2="1020" y2="545"/>
+<text x="22" y="305.0" font-size="13" text-anchor="middle" transform="rotate(-90 22 305.0)">Sale Price (USD)</text>
+<text x="555.0" y="625" font-size="13" text-anchor="middle">Total Rooms Above Ground</text>
+<line class="whisk" x1="136.5" y1="431.0" x2="136.5" y2="458.3"/><line class="whisk" x1="122.5" y1="431.0" x2="150.5" y2="431.0"/>
+<line class="whisk" x1="136.5" y1="496.9" x2="136.5" y2="524.0"/><line class="whisk" x1="122.5" y1="524.0" x2="150.5" y2="524.0"/>
+<rect class="box" x="115.5" y="458.3" width="42.0" height="38.6"/>
+<line class="med" x1="115.5" y1="487.4" x2="157.5" y2="487.4"/>
+<text x="136.5" y="565" font-size="11" text-anchor="middle">3</text>
+<line class="whisk" x1="229.5" y1="414.5" x2="229.5" y2="456.4"/><line class="whisk" x1="215.5" y1="414.5" x2="243.5" y2="414.5"/>
+<line class="whisk" x1="229.5" y1="486.8" x2="229.5" y2="524.1"/><line class="whisk" x1="215.5" y1="524.1" x2="243.5" y2="524.1"/>
+<rect class="box" x="208.5" y="456.4" width="42.0" height="30.4"/>
+<line class="med" x1="208.5" y1="469.4" x2="250.5" y2="469.4"/>
+<circle cx="229.5" cy="383.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="229.5" cy="389.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="229.5" cy="383.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="229.5" cy="397.7" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="229.5" cy="404.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="229.5" cy="537.1" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="229.5" cy="398.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="229.5" cy="393.8" r="2" fill="#64748b" opacity=".5"/>
+<text x="229.5" y="565" font-size="11" text-anchor="middle">4</text>
+<line class="whisk" x1="322.5" y1="411.8" x2="322.5" y2="450.3"/><line class="whisk" x1="308.5" y1="411.8" x2="336.5" y2="411.8"/>
+<line class="whisk" x1="322.5" y1="477.2" x2="322.5" y2="514.9"/><line class="whisk" x1="308.5" y1="514.9" x2="336.5" y2="514.9"/>
+<rect class="box" x="301.5" y="450.3" width="42.0" height="26.9"/>
+<line class="med" x1="301.5" y1="467.0" x2="343.5" y2="467.0"/>
+<circle cx="322.5" cy="403.1" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="537.3" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="360.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="397.4" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="378.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="401.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="353.8" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="391.4" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="518.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="355.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="380.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="407.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="373.4" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="335.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="382.4" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="365.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="374.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="371.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="362.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="347.7" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="400.1" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="389.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="409.4" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="309.5" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="368.3" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="395.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="380.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="393.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="377.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="363.8" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="377.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="396.9" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="320.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="404.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="398.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="347.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="401.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="380.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="396.8" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="387.8" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="314.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="377.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="320.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="365.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="322.5" cy="407.0" r="2" fill="#64748b" opacity=".5"/>
+<text x="322.5" y="565" font-size="11" text-anchor="middle">5</text>
+<line class="whisk" x1="415.5" y1="384.3" x2="415.5" y2="433.1"/><line class="whisk" x1="401.5" y1="384.3" x2="429.5" y2="384.3"/>
+<line class="whisk" x1="415.5" y1="466.4" x2="415.5" y2="515.0"/><line class="whisk" x1="401.5" y1="515.0" x2="429.5" y2="515.0"/>
+<rect class="box" x="394.5" y="433.1" width="42.0" height="33.3"/>
+<line class="med" x1="394.5" y1="453.1" x2="436.5" y2="453.1"/>
+<circle cx="415.5" cy="353.1" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="382.1" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="381.8" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="371.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="374.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="350.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="365.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="353.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="380.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="522.3" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="355.7" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="344.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="321.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="380.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="322.4" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="350.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="371.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="365.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="521.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="353.1" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="377.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="378.5" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="354.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="375.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="293.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="356.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="375.8" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="321.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="320.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="375.5" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="345.7" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="358.9" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="342.9" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="383.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="378.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="415.5" cy="368.1" r="2" fill="#64748b" opacity=".5"/>
+<text x="415.5" y="565" font-size="11" text-anchor="middle">6</text>
+<line class="whisk" x1="508.5" y1="337.7" x2="508.5" y2="406.0"/><line class="whisk" x1="494.5" y1="337.7" x2="522.5" y2="337.7"/>
+<line class="whisk" x1="508.5" y1="452.0" x2="508.5" y2="512.0"/><line class="whisk" x1="494.5" y1="512.0" x2="522.5" y2="512.0"/>
+<rect class="box" x="487.5" y="406.0" width="42.0" height="46.0"/>
+<line class="med" x1="487.5" y1="434.0" x2="529.5" y2="434.0"/>
+<circle cx="508.5" cy="332.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="318.5" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="321.5" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="302.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="329.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="322.5" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="290.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="312.8" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="308.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="314.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="315.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="176.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="324.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="335.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="260.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="323.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="309.8" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="279.8" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="331.4" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="275.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="281.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="245.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="321.8" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="335.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="321.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="266.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="296.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="318.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="336.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="296.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="508.5" cy="323.1" r="2" fill="#64748b" opacity=".5"/>
+<text x="508.5" y="565" font-size="11" text-anchor="middle">7</text>
+<line class="whisk" x1="601.5" y1="295.8" x2="601.5" y2="386.9"/><line class="whisk" x1="587.5" y1="295.8" x2="615.5" y2="295.8"/>
+<line class="whisk" x1="601.5" y1="449.0" x2="601.5" y2="496.4"/><line class="whisk" x1="587.5" y1="496.4" x2="615.5" y2="496.4"/>
+<rect class="box" x="580.5" y="386.9" width="42.0" height="62.1"/>
+<line class="med" x1="580.5" y1="419.9" x2="622.5" y2="419.9"/>
+<circle cx="601.5" cy="179.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="601.5" cy="213.8" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="601.5" cy="190.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="601.5" cy="272.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="601.5" cy="249.8" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="601.5" cy="257.6" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="601.5" cy="265.1" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="601.5" cy="263.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="601.5" cy="291.2" r="2" fill="#64748b" opacity=".5"/>
+<text x="601.5" y="565" font-size="11" text-anchor="middle">8</text>
+<line class="whisk" x1="694.5" y1="264.2" x2="694.5" y2="360.5"/><line class="whisk" x1="680.5" y1="264.2" x2="708.5" y2="264.2"/>
+<line class="whisk" x1="694.5" y1="428.2" x2="694.5" y2="496.8"/><line class="whisk" x1="680.5" y1="496.8" x2="708.5" y2="496.8"/>
+<rect class="box" x="673.5" y="360.5" width="42.0" height="67.7"/>
+<line class="med" x1="673.5" y1="390.8" x2="715.5" y2="390.8"/>
+<circle cx="694.5" cy="243.9" r="2" fill="#64748b" opacity=".5"/>
+<text x="694.5" y="565" font-size="11" text-anchor="middle">9</text>
+<line class="whisk" x1="787.5" y1="170.0" x2="787.5" y2="321.0"/><line class="whisk" x1="773.5" y1="170.0" x2="801.5" y2="170.0"/>
+<line class="whisk" x1="787.5" y1="450.9" x2="787.5" y2="494.1"/><line class="whisk" x1="773.5" y1="494.1" x2="801.5" y2="494.1"/>
+<rect class="box" x="766.5" y="321.0" width="42.0" height="129.9"/>
+<line class="med" x1="766.5" y1="375.5" x2="808.5" y2="375.5"/>
+<circle cx="787.5" cy="98.0" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="787.5" cy="92.0" r="2" fill="#64748b" opacity=".5"/>
+<text x="787.5" y="565" font-size="11" text-anchor="middle">10</text>
+<line class="whisk" x1="880.5" y1="178.0" x2="880.5" y2="295.8"/><line class="whisk" x1="866.5" y1="178.0" x2="894.5" y2="178.0"/>
+<line class="whisk" x1="880.5" y1="431.3" x2="880.5" y2="507.5"/><line class="whisk" x1="866.5" y1="507.5" x2="894.5" y2="507.5"/>
+<rect class="box" x="859.5" y="295.8" width="42.0" height="135.5"/>
+<line class="med" x1="859.5" y1="351.5" x2="901.5" y2="351.5"/>
+<text x="880.5" y="565" font-size="11" text-anchor="middle">11</text>
+<line class="whisk" x1="973.5" y1="377.3" x2="973.5" y2="390.6"/><line class="whisk" x1="959.5" y1="377.3" x2="987.5" y2="377.3"/>
+<line class="whisk" x1="973.5" y1="453.1" x2="973.5" y2="499.1"/><line class="whisk" x1="959.5" y1="499.1" x2="987.5" y2="499.1"/>
+<rect class="box" x="952.5" y="390.6" width="42.0" height="62.5"/>
+<line class="med" x1="952.5" y1="428.9" x2="994.5" y2="428.9"/>
+<circle cx="973.5" cy="222.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="973.5" cy="195.2" r="2" fill="#64748b" opacity=".5"/>
+<circle cx="973.5" cy="260.0" r="2" fill="#64748b" opacity=".5"/>
+<text x="973.5" y="565" font-size="11" text-anchor="middle">12</text>
+</svg>
